@@ -1,0 +1,27 @@
+{
+  "name": "hutch-discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.4",
+    "mongoose": "^8.23.0",
+    "node-cron": "^3.0.3"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xRico09/hutch-discord-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/xRico09/hutch-discord-bot/issues"
+  },
+  "homepage": "https://github.com/xRico09/hutch-discord-bot#readme"
+}
